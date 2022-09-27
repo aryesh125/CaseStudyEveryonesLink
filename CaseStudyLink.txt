@@ -37,3 +37,4 @@
 (shreyas)https://github.com/shrr18/caseStudy26-09-22
 (Pravin-bp)https://github.com/Pravin-bp/caseStudy26-09-2022
 (Revathi)https://github.com/Revathi777/caseStudy26-09-2022
+(Aryesh):https://github.com/aryesh125/caseStudy1.git
